@@ -191,6 +191,7 @@ section .tittle__news p::before{
     left: -120px;
     height: 1px;
     width: 100px;
+    max-width: 100%;
     background-color: var(--color--primary--title);
 }
 
